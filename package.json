@@ -1,0 +1,34 @@
+{
+  "name": "vuetify-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "axios": "^1.2.2",
+    "pinia": "^2.0.28",
+    "pinia-plugin-persistedstate": "^3.0.2",
+    "roboto-fontface": "*",
+    "sweetalert2": "^11.6.16",
+    "validator": "^13.7.0",
+    "vue": "^3.2.38",
+    "vue-router": "^4.1.6",
+    "vue3-img-input": "^1.2.1",
+    "vuetify": "^3.0.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "@vue/eslint-config-standard": "^8.0.1",
+    "eslint": "^8.31.0",
+    "eslint-plugin-vue": "^9.8.0",
+    "eslint-plugin-vue-pug": "^0.5.5",
+    "pug": "^3.0.2",
+    "sass": "^1.57.1",
+    "vite": "^3.1.9",
+    "vite-plugin-vuetify": "^1.0.0-alpha.12"
+  }
+}
